@@ -31,4 +31,4 @@ truffle test
 truffle deploy
 ```
 
-### After deployment of smart contracts you will get the contract address
+### After deployment of smart contracts you will get the contract address.
